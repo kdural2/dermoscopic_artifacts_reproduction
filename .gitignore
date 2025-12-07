@@ -3,3 +3,5 @@ data/HAM10000/images/*
 data/ISIC2018/images/*
 data/ISIC2018/masks/*
 metadata/*.csv
+full_tree.txt
+results/results_tree.txt
