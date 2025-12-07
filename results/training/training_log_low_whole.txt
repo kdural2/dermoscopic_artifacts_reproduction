@@ -1,0 +1,52 @@
+=== Training Mode: low_whole ===
+
+=========================================================
+=== Fold 0/3 | mode=low_whole ===
+=========================================================
+
+Fold 0 | Epoch 1/8 | train_loss=0.4975 | val_loss=0.4485 | val_auroc=0.7729 | epoch_time=101.83s | total_elapsed=1.70 min
+Fold 0 | Epoch 2/8 | train_loss=0.2113 | val_loss=0.4551 | val_auroc=0.7904 | epoch_time=34.44s  | total_elapsed=2.27 min
+Fold 0 | Epoch 3/8 | train_loss=0.0554 | val_loss=0.6232 | val_auroc=0.7471 | epoch_time=22.44s  | total_elapsed=2.65 min
+Fold 0 | Epoch 4/8 | train_loss=0.0156 | val_loss=0.5926 | val_auroc=0.7820 | epoch_time=17.11s  | total_elapsed=2.93 min
+Fold 0 | Epoch 5/8 | train_loss=0.0095 | val_loss=0.8091 | val_auroc=0.7887 | epoch_time=11.44s  | total_elapsed=3.12 min
+Fold 0 | Epoch 6/8 | train_loss=0.0044 | val_loss=0.6526 | val_auroc=0.7792 | epoch_time=9.93s   | total_elapsed=3.29 min
+Fold 0 | Epoch 7/8 | train_loss=0.0033 | val_loss=0.6960 | val_auroc=0.7829 | epoch_time=7.09s   | total_elapsed=3.41 min
+Fold 0 | Epoch 8/8 | train_loss=0.0018 | val_loss=0.6979 | val_auroc=0.7908 | epoch_time=7.03s   | total_elapsed=3.52 min
+Fold 0 best_val_auroc=0.7908
+
+
+=========================================================
+=== Fold 1/3 | mode=low_whole ===
+=========================================================
+
+Fold 1 | Epoch 1/8 | train_loss=0.4941 | val_loss=0.4182 | val_auroc=0.7569 | epoch_time=101.90s | total_elapsed=1.70 min
+Fold 1 | Epoch 2/8 | train_loss=0.1933 | val_loss=0.5530 | val_auroc=0.7546 | epoch_time=29.52s  | total_elapsed=2.19 min
+Fold 1 | Epoch 3/8 | train_loss=0.0424 | val_loss=0.7061 | val_auroc=0.6760 | epoch_time=23.42s  | total_elapsed=2.58 min
+Fold 1 | Epoch 4/8 | train_loss=0.0163 | val_loss=0.6011 | val_auroc=0.7602 | epoch_time=17.28s  | total_elapsed=2.87 min
+Fold 1 | Epoch 5/8 | train_loss=0.0089 | val_loss=0.6373 | val_auroc=0.7546 | epoch_time=14.79s  | total_elapsed=3.12 min
+Fold 1 | Epoch 6/8 | train_loss=0.0053 | val_loss=0.6902 | val_auroc=0.7412 | epoch_time=10.66s  | total_elapsed=3.30 min
+Fold 1 | Epoch 7/8 | train_loss=0.0028 | val_loss=0.6506 | val_auroc=0.7461 | epoch_time=9.46s   | total_elapsed=3.45 min
+Fold 1 | Epoch 8/8 | train_loss=0.0019 | val_loss=0.6329 | val_auroc=0.7740 | epoch_time=7.95s   | total_elapsed=3.59 min
+Fold 1 best_val_auroc=0.7740
+
+
+=========================================================
+=== Fold 2/3 | mode=low_whole ===
+=========================================================
+
+Fold 2 | Epoch 1/8 | train_loss=0.4717 | val_loss=0.3994 | val_auroc=0.8161 | epoch_time=102.45s | total_elapsed=1.71 min
+Fold 2 | Epoch 2/8 | train_loss=0.2005 | val_loss=0.5889 | val_auroc=0.7024 | epoch_time=30.15s  | total_elapsed=2.21 min
+Fold 2 | Epoch 3/8 | train_loss=0.0420 | val_loss=0.5745 | val_auroc=0.7788 | epoch_time=22.44s  | total_elapsed=2.59 min
+Fold 2 | Epoch 4/8 | train_loss=0.0123 | val_loss=0.6019 | val_auroc=0.7896 | epoch_time=17.14s  | total_elapsed=2.87 min
+Fold 2 | Epoch 5/8 | train_loss=0.0242 | val_loss=0.7841 | val_auroc=0.8017 | epoch_time=12.33s  | total_elapsed=3.08 min
+Fold 2 | Epoch 6/8 | train_loss=0.0291 | val_loss=0.9108 | val_auroc=0.7808 | epoch_time=10.62s  | total_elapsed=3.25 min
+Fold 2 | Epoch 7/8 | train_loss=0.0326 | val_loss=0.7545 | val_auroc=0.7490 | epoch_time=7.86s   | total_elapsed=3.38 min
+Fold 2 | Epoch 8/8 | train_loss=0.0242 | val_loss=0.7982 | val_auroc=0.7998 | epoch_time=8.35s   | total_elapsed=3.52 min
+Fold 2 best_val_auroc=0.8161
+
+
+=========================================================
+=== Final Summary for mode=low_whole ===
+=========================================================
+
+Final Mean AUROC for mode=low_whole: 0.7936 ± 0.0173

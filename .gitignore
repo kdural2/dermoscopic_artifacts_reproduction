@@ -1,0 +1,5 @@
+checkpoints/*
+data/HAM10000/images/*
+data/ISIC2018/images/*
+data/ISIC2018/masks/*
+metadata/*.csv

@@ -1,0 +1,35 @@
+=========================================================
+=== Training Mode: lesion ===
+=========================================================
+
+Fold 0 | Epoch 1/8 | train_loss=0.4953 | val_loss=0.4947 | val_auroc=0.7417 | epoch_time=96.52s | total_elapsed=1.61 min
+Fold 0 | Epoch 2/8 | train_loss=0.2521 | val_loss=0.6716 | val_auroc=0.7811 | epoch_time=28.19s | total_elapsed=2.08 min
+Fold 0 | Epoch 3/8 | train_loss=0.0945 | val_loss=0.6817 | val_auroc=0.7028 | epoch_time=19.43s | total_elapsed=2.40 min
+Fold 0 | Epoch 4/8 | train_loss=0.0422 | val_loss=0.7132 | val_auroc=0.7683 | epoch_time=16.06s | total_elapsed=2.67 min
+Fold 0 | Epoch 5/8 | train_loss=0.0200 | val_loss=0.8621 | val_auroc=0.7797 | epoch_time=11.51s | total_elapsed=2.86 min
+Fold 0 | Epoch 6/8 | train_loss=0.0199 | val_loss=0.7548 | val_auroc=0.6979 | epoch_time=9.64s | total_elapsed=3.02 min
+Fold 0 | Epoch 7/8 | train_loss=0.0286 | val_loss=1.0564 | val_auroc=0.7834 | epoch_time=8.06s | total_elapsed=3.16 min
+Fold 0 | Epoch 8/8 | train_loss=0.0278 | val_loss=0.6845 | val_auroc=0.7975 | epoch_time=6.78s | total_elapsed=3.27 min
+Fold 0 best_val_auroc=0.7975
+
+Fold 1 | Epoch 1/8 | train_loss=0.4826 | val_loss=0.4403 | val_auroc=0.7410 | epoch_time=100.00s | total_elapsed=1.67 min
+Fold 1 | Epoch 2/8 | train_loss=0.2720 | val_loss=0.7138 | val_auroc=0.7102 | epoch_time=31.36s | total_elapsed=2.19 min
+Fold 1 | Epoch 3/8 | train_loss=0.1100 | val_loss=0.5575 | val_auroc=0.7308 | epoch_time=21.37s | total_elapsed=2.55 min
+Fold 1 | Epoch 4/8 | train_loss=0.0409 | val_loss=0.6433 | val_auroc=0.6930 | epoch_time=16.85s | total_elapsed=2.83 min
+Fold 1 | Epoch 5/8 | train_loss=0.0224 | val_loss=0.7611 | val_auroc=0.7613 | epoch_time=14.19s | total_elapsed=3.06 min
+Fold 1 | Epoch 6/8 | train_loss=0.0333 | val_loss=0.8600 | val_auroc=0.6948 | epoch_time=10.74s | total_elapsed=3.24 min
+Fold 1 | Epoch 7/8 | train_loss=0.0453 | val_loss=0.8958 | val_auroc=0.7003 | epoch_time=9.14s | total_elapsed=3.40 min
+Fold 1 | Epoch 8/8 | train_loss=0.0570 | val_loss=0.7943 | val_auroc=0.7354 | epoch_time=7.81s | total_elapsed=3.53 min
+Fold 1 best_val_auroc=0.7613
+
+Fold 2 | Epoch 1/8 | train_loss=0.4715 | val_loss=0.5901 | val_auroc=0.7726 | epoch_time=102.84s | total_elapsed=1.71 min
+Fold 2 | Epoch 2/8 | train_loss=0.2510 | val_loss=0.6515 | val_auroc=0.7648 | epoch_time=29.93s | total_elapsed=2.21 min
+Fold 2 | Epoch 3/8 | train_loss=0.1117 | val_loss=1.5040 | val_auroc=0.7779 | epoch_time=18.60s | total_elapsed=2.52 min
+Fold 2 | Epoch 4/8 | train_loss=0.0450 | val_loss=0.7273 | val_auroc=0.7511 | epoch_time=16.02s | total_elapsed=2.79 min
+Fold 2 | Epoch 5/8 | train_loss=0.0231 | val_loss=0.7389 | val_auroc=0.7319 | epoch_time=11.71s | total_elapsed=2.99 min
+Fold 2 | Epoch 6/8 | train_loss=0.0166 | val_loss=0.6901 | val_auroc=0.7838 | epoch_time=9.96s | total_elapsed=3.15 min
+Fold 2 | Epoch 7/8 | train_loss=0.0134 | val_loss=0.7822 | val_auroc=0.7335 | epoch_time=8.38s | total_elapsed=3.29 min
+Fold 2 | Epoch 8/8 | train_loss=0.0248 | val_loss=1.0617 | val_auroc=0.5259 | epoch_time=6.70s | total_elapsed=3.41 min
+Fold 2 best_val_auroc=0.7779
+
+Final Mean AUROC for mode=lesion: 0.7809 ± 0.0149
